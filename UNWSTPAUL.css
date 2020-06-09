@@ -19,8 +19,8 @@ html {
 }
 
 header.header-main {
-  background-color: #{{Color_1}};
-  height:10.5em;
+  background-color: #331e54;
+  height:8.5em;
 }
 
 .logo {
@@ -133,7 +133,7 @@ button.submit-login:focus
 }
 
 .admin-links .fa {
-    color: #{{Color_2_Tint}}; /*default #007bff*/
+    color: #a38dc6; /*default #007bff*/
 }
 
 table th,

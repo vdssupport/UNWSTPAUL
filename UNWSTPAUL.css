@@ -31,11 +31,11 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#fff;
+  background-color:#e2d3f9;
 }
 
 .header-page .tabs li a {
-  border-bottom-color:#fff};
+  border-bottom-color:#e2d3f9};
   color: ##181818;
 }
 
@@ -56,7 +56,7 @@ header.header-page {
 }
 
 .header-page .buttons button {
-  background-color: #{{Color_1}};
+  background-color: #ecac00;
   color: #fff;
 }
 

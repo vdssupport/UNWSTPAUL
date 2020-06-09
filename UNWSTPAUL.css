@@ -35,14 +35,14 @@ header.header-page {
 }
 
 .header-page .tabs li a {
-  border-bottom-color:#{{Color_2}};
-  color: #{{Color_2_Tint}};
+  border-bottom-color:#fff};
+  color: ##181818;
 }
 
 .header-page .tabs li a:hover,
 .header-page .tabs li a:focus
 {
-  color: #fff;
+  color: #331e54;
 }
 
 /* Keep this block only if it looks good. */

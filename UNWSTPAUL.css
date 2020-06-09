@@ -88,6 +88,10 @@ header.header-page {
     color: #181818;
 }
 
+.header-page .filters select {
+	color: #181818;
+}
+
 button {
     background-color: #{{Color_2}};
 }

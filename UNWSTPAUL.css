@@ -61,15 +61,15 @@ header.header-page {
 }
 
 .header-page button {
-  background-color: #{{Color_2}};
+  background-color: #ecac00;
   color: #fff;
 }
 
 .header-page .buttons button:hover,
 .header-page .buttons button:focus 
 {
-  background-color: #{{Color_2_Tint}};
-  color: #181818;
+  background-color: #ffc425;
+  color: #fff;
 
   /* Alternative if the above doesn't look so great.
   background-color: #{{Color_2}};
@@ -79,7 +79,7 @@ header.header-page {
 
 .header-page .filters .filter:hover select,
 .header-page .filters .filter:focus-within select {
-    background-color: #{{Color_1}};
+    background-color: #181818;
     color: #181818;
 }
 
